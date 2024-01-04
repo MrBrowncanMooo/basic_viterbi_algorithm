@@ -16,7 +16,7 @@ E   0  0  0  0  0  0  0  4  8  5  0
 # Python3 program to represent directed
 # and weighted graph. The program basically
 # prints adjacency list representation of graph
-
+#this is a comment
 
 weight_index = 1  # weight index
 vertex_index = 0  # vertex index
